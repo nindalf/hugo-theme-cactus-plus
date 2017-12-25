@@ -270,10 +270,6 @@ ul {
     padding: 0;
 }
 
-li {
-    list-style-position: inside;
-}
-
 ul>li {
     list-style-type: circle;
 }
