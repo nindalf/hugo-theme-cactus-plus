@@ -558,6 +558,15 @@ Post List
     border-bottom: 1px solid #eee;
 }
 
+.post #noresize {
+    max-width: 100%;
+    width: auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 #post-meta div span {
     color: #aaa;
     font-weight: 500;
