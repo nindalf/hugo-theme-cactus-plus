@@ -690,8 +690,8 @@ h2.month {
 }
 
 #post-meta img.avatar {
-    height: 36px;
-    width: 36px;
+    height: 360px;
+    width: 360px;
     float: left;
     border-radius: 50%;
     margin-top: 3px;
